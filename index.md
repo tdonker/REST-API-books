@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to {REST:API}_links
 
 You can use the [editor on GitHub](https://github.com/tdonker/restapilinks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
