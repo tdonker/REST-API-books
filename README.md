@@ -16,5 +16,4 @@ how to build them by Phil Sturgeon - 2013/2014
 * [The Little Book on REST Services](https://tdonker.nl/restapibooks/The-Little-Book-on-REST-Services.pdf) Kenneth Lange - 2016
 * [Web API Design: The Missing Link - Best Practices for Crafting Interfaces that Developers Love](https://tdonker.nl/restapibooks/Web-design-the-missing-link-ebook-2016-11.pdf) Apigee - 2018
 * [Pro RESTful APIs - Design, Build and Integrate with REST, JSON, XML and JAX-RS](https://tdonker.nl/restapibooks/Pro-RESTful-APIs.pdf) Sanjay Patni (Apress) - 2017
-* 
   
