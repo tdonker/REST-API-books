@@ -1,5 +1,5 @@
 # REST API books
-Collection of useful books and resources related to REST API architecture
+Collection of useful books related to REST API architecture
 
 * [API Architecture - The Big Picture for Building APIs](https://tdonker.nl/restapibooks/api_architecture_biehl.pdf) Matthias Biehl API University Series - 2015
 * [API Design on the Scale of Decades](https://tdonker.nl/restapibooks/API-Design-on-the-scale-of-Decades.pdf) Nordic APIs Learn How to Architect and Design
@@ -16,4 +16,9 @@ how to build them by Phil Sturgeon - 2013/2014
 * [The Little Book on REST Services](https://tdonker.nl/restapibooks/The-Little-Book-on-REST-Services.pdf) Kenneth Lange - 2016
 * [Web API Design: The Missing Link - Best Practices for Crafting Interfaces that Developers Love](https://tdonker.nl/restapibooks/Web-design-the-missing-link-ebook-2016-11.pdf) Apigee - 2018
 * [Pro RESTful APIs - Design, Build and Integrate with REST, JSON, XML and JAX-RS](https://tdonker.nl/restapibooks/Pro-RESTful-APIs.pdf) Sanjay Patni (Apress) - 2017
+
   
+# API guidelines
+Collection of useful links related to REST API architecture
+
+* [API Guidelines in the Wild](https://dret.github.io/guidelines/) Erik Wilde guidelines overview- 2022
